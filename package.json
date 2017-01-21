@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrei-gheorghiu/play.git"
+    "url": "https://github.com/andrei-gheorghiu/play.git"
   },
   "keywords": [
     "d3",
