@@ -1,0 +1,25 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "D3 playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrei-gheorghiu/play.git"
+  },
+  "keywords": [
+    "d3",
+    "websiter.ro",
+    "andrei",
+    "gheorghiu"
+  ],
+  "author": "Andrei Gheorghiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrei-gheorghiu/play/issues"
+  },
+  "homepage": "https://github.com/andrei-gheorghiu/play#readme"
+}
